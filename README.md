@@ -1,2 +1,2 @@
-# grpc-wasm
-gRPC-Web implementation in Go, built using the WASM architecture target
+# gRPC-WASM
+gRPC-Web implementation in Go. Built as a drop-in alternative to google.golang.org/grpc.
